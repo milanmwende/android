@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">milan</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_assignment">assignmentActivity</string>
+    <string name="title_activity_image_input">ImageInputActivity</string>
+    <string name="title_activity_webview">webviewActivity</string>
+</resources>
